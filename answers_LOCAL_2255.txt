@@ -12,7 +12,3 @@ A: A merge allows you:
 	- Rebase is best used when the target branch is private
 	- Rewrites history
 
-Q: What is a remote repository?
-A: Remote repository is a version of your project that are hosted on the Internet or network somewhere.
-   You can have serveral or them, each of which generally is either read-only or read/write for you.
-   Remote repositories are great for managing collaborative works that include push and pull datas.
